@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj": {}
+    "c:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj": {
+    "c:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj",
+        "projectUniqueName": "c:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj",
         "projectName": "bootcamp-DDD",
-        "projectPath": "C:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj",
+        "projectPath": "c:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\bootcamp-DDD.csproj",
         "packagesPath": "C:\\Users\\Maria Luiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\obj\\",
+        "outputPath": "c:\\Users\\Maria Luiza\\Desktop\\bootcamp-DDD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
